@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ml",
+    "name": "MOBILE LEGENDS",
+    "image": "ml.jpeg",
+    "wa": "",
+    "trending": false
+  },
+  {
+    "id": "pubg",
+    "name": "PUBG MOBILE",
+    "image": "pubg.jpg",
+    "wa": "",
+    "trending": true
+  },
+  {
+    "id": "codm",
+    "name": "CALL OF DUTY MOBILE",
+    "image": "codm.jpeg",
+    "wa": "",
+    "trending": false
+  }
+]
